@@ -1,0 +1,4 @@
+com/gradlebuild/example/ValidationTest.java
+ com.gradlebuild.example.ValidationTest
+com/gradlebuild/example/JarTest.java
+ com.gradlebuild.example.JarTest
